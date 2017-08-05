@@ -1,6 +1,6 @@
 1 - Plotting R, G and B separately  
 2 - Convert to HSL and HSV  
-3 - L*a*b*  
+3 - L\*a\*b\*  
 4 - Grayscale  
 5 - Whitening and Histogram Equalization  
 6 - Gaussian smoothing  
