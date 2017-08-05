@@ -6,7 +6,7 @@
 6 - Gaussian smoothing
 7 - Median filtering on salt-and-pepper noise
 8 - Prewitt and Sobel operators
-9 - 
+9 - Gabor Filter
 10 - Laplacian
 11 - Road markers
 12 - Night, Portrait, Landscape
